@@ -486,9 +486,7 @@ Midjourney的私人模式允许用户创建不会被其他用户看到或被添�
 
 * 第三种方法是通过设置菜单永久设置私人模式。使用"/settings"命令打开设置面板，然后在隐私选项中选择"Private"。这会将你的账户默认设置为始终处于私人模式，直到你手动更改回来。
 
-要检查当前是否处于私人模式，可以查看Discord中生成图像时的状态消息，或者使用"/info"命令查看你的账户设置状态。在私人模式下，通常会有"私人作业"或类似的标识。
-
-从私人模式切换回公共模式也很简单，只需使用"/public"命令，或在设置菜单中选择"Public"选项。
+如果要检查当前是否处于私人模式，可以查看Discord中生成图像时的状态消息，或者使用"/info"命令查看你的账户设置状态。在私人模式下，通常会有"私人作业"或类似的标识。从私人模式切换回公共模式也很简单，只需使用"/public"命令，或在设置菜单中选择"Public"选项。
 
 使用私人模式需要注意的几点：
 
@@ -535,8 +533,6 @@ Midjourney的私人模式允许用户创建不会被其他用户看到或被添�
 不同应用场景需要不同的贴图特性。游戏纹理通常需要添加"game texture, PBR material, normal map"等术语；布料图案可使用"fabric design, textile pattern, fashion print"；壁纸设计则适合"wallpaper design, interior decor, repeating motif"等关键词。
 
 对于更复杂的重复图案，可以先创建单个元素或主题，然后使用图像编辑软件排列这些元素创建完整模式。必要时，还可以将初步模式上传回Midjourney，配合提示词"based on this pattern, create a seamless version"进一步优化。
-
-通过掌握这些提示词技巧和必要的后期处理方法，你可以用Midjourney创建各种高质量的无缝贴图和重复图案，满足不同设计项目的需求。
 
 ### Midjourney的不同版本模型(V5、V6等)有什么区别？
 
@@ -733,4 +729,4 @@ VPN使用者应注意，某些VPN可能被Discord屏蔽，导致连接问题，�
 
 如果问题是Midjourney机器人响应迟缓或不响应，尝试在不同频道发送命令，或使用/info检查当前队列状态。对于私人服务器连接问题，确保机器人权限配置正确，重新邀请机器人可能解决问题。
 
-若以上方法都无效，可以在Midjourney官方Discord的#support频道寻求帮助，或发送邮件至support@midjourney.com。当联系支持团队时，提供错误截图、你的Discord用户名和使用的设备信息，有助于快速解决问题。
+若以上方法都无效，可以在Midjourney官方Discord的#support频道寻求帮助，或发送邮件至support[@]midjourney.com。当联系支持团队时，提供错误截图、你的Discord用户名和使用的设备信息，有助于快速解决问题。
