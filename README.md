@@ -94,7 +94,15 @@ Midjourney选择在Discord上运行，这意味着它不只是工具，还是个
 
 根据我们的实测和众多用户的反馈，WildCard野卡虚拟信用卡是目前最值得推荐的选择。这款产品来自正规平台，安全性有保障，且在国内有备案，确保支付过程稳定可靠。它的优势还在于不仅适用于Midjourney，还能用于ChatGPT Plus、ChatGPT Pro、Claude Pro、Poe、OnlyFans、Netflix和YouTube等各类国际平台，真正做到一卡在手，全球畅通。
 
-OK，当你获得WildCard野卡虚拟信用卡后，你就拥有了一张能在全球网站使用的支付工具。有了它，你可以像使用实体信用卡一样，轻松完成Midjourney的订阅付款。接下来，我们会具体介绍如何用这张虚拟卡订阅Midjourney服务，帮你选择合适的套餐，让你尽快开始AI绘画创作。
+### 第一步：打开WildCard野卡官网，并依次点击“立即体验”、“立即开通”和“开头会员”按钮。
+
+* WildCard野卡官网：https://yeka.ai/i/ANYOFAI
+
+### 第二步：使用手机号注册帐号，然后选择服务年限，输入邀请码“ANYOFAI”并支付年费。
+
+### 第三步：点击“订阅服务”按钮即可查看WildCard野卡信用卡相关信息。
+
+OK，当你获得WildCard野卡虚拟信用卡后，你就拥有了一张能在全球网站使用的支付工具。有了它，你可以像使用实体信用卡一样，轻松完成Midjourney的订阅付款。此外，WildCard野卡虚拟信用卡还可以订阅ChatGPT Plus、订阅Claude Pro、订阅POE、订阅OnlyFans、订阅X Premium+、订阅Suno等，也你可以点击“WildCard野卡怎么样”查看更多详细信息。接下来，我们会具体介绍如何用这张虚拟卡订阅Midjourney服务，帮你选择合适的套餐，让你尽快开始AI绘画创作。
 
 ## Midjourney订阅教程
 
