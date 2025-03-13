@@ -114,7 +114,7 @@ Midjourney选择在Discord上运行，这意味着它不只是工具，还是个
 
 ![获取订阅Midjourney会员的WildCard野卡虚拟信用卡第三步：点击“订阅服务”按钮即可查看WildCard野卡信用卡相关信息](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/yeka-6.png)
 
-OK，当你获得WildCard野卡虚拟信用卡后，你就拥有了一张能在全球网站使用的支付工具。有了它，你可以像使用实体信用卡一样，轻松完成Midjourney的订阅付款。此外，WildCard野卡虚拟信用卡还可以订阅ChatGPT Plus、订阅Claude Pro、订阅POE、订阅OnlyFans、订阅X Premium+、订阅Suno等，也你可以点击“WildCard野卡怎么样”查看更多详细信息。接下来，我们会具体介绍如何用这张虚拟卡订阅Midjourney服务，帮你选择合适的套餐，让你尽快开始AI绘画创作。
+OK，当你获得WildCard野卡虚拟信用卡后，你就拥有了一张能在全球网站使用的支付工具。有了它，你可以像使用实体信用卡一样，轻松完成Midjourney的订阅付款。此外，WildCard野卡虚拟信用卡还可以<a href="https://github.com/anyofai/anyofai.github.io">订阅ChatGPT Plus</a>、<a href="https://github.com/anyofai/claude-pro">订阅Claude Pro</a>、<a href="https://github.com/anyofai/poe">订阅POE</a>、<a href="https://github.com/anyofai/onlyfans">订阅OnlyFans</a>、<a href="https://github.com/anyofai/x-twitter>订阅X Premium+</a>、<a href="https://github.com/anyofai/suno">订阅Suno</a>等，也你可以点击“<a href="https://anyofai.github.io/">WildCard野卡怎么样</a>”查看更多详细信息。接下来，我们会具体介绍如何用这张虚拟卡订阅Midjourney服务，帮你选择合适的套餐，让你尽快开始AI绘画创作。
 
 ## Midjourney订阅教程
 
