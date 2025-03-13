@@ -2,11 +2,15 @@
 
 <p align="center">最近更新于：2025年3月13日</p>
 
+![最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney.png)
+
 在以前，你若想获取一张好看的插画，要么自己动手创作，要么花钱聘请专业的设计师。现如今，AI绘画软件的出现改变了这一切。在众多的AI绘画软件中，Midjourney凭借高质量输出和低门槛操作，成为了市场上最受欢迎的AI绘画工具，无论是包装设计、社交媒体配图，还是游戏原画、电影概念图，它都能胜任，既帮助设计师提高效率，也让普通人创作出专业级图像。
 
 但说实话，国内用户使用Midjourney并不容易。从账号注册到订阅会员再到实际使用，每一步都可能遇到问题，比如无法访问Midjourney官网、不支持国内信用卡和支付宝等付款方式、英文界面难懂等。本教程将手把手教你如何注册Midjourney账号，如何使用WildCard野卡虚拟信用卡支付Midjourney订阅费用，如何使用Midjourney等。无论你是好奇尝鲜的新手，还是需要创意工具的专业人士，这份指南都能帮你轻松驾驭Midjourney的强大功能。
 
 ## Midjourney是什么？ 
+
+![Midjourney是什么？ ](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney-1.png)
 
 Midjourney是一款在Discord平台上运行的AI绘画工具，简单来说就是你输入文字描述，它就能把你的想法变成高质量图像。不需要你会画画，只要能用语言表达出想要的画面，AI就能帮你实现。
 
@@ -27,6 +31,8 @@ Midjourney选择在Discord上运行，这意味着它不只是工具，还是个
 ## Midjourney订阅价格是多少？ 
 
 在了解如何注册和使用Midjourney之前，我们先来看看它的订阅价格。Midjourney提供了四种不同的订阅套餐，分别是Basic、Standard、Pro和Mega。每个套餐都提供不同数量的GPU时间（用于生成图像的计算资源）、不同的生成速度以及其他特性。随着价格的增加，你能获得更多的生成次数、更快的处理速度和更多的高级功能。值得注意的是，Midjourney已经取消了之前的免费试用期，这意味着新用户想要体验这款工具，必须先订阅一个付费计划。
+
+![Midjourney订阅价格是多少？ ](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney-2.png)
 
 | 订阅套餐 | 价格 | 速度 | 图片数量 | 适用人群 | 特殊功能 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
