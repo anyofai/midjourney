@@ -92,11 +92,11 @@ Midjourney选择在Discord上运行，这意味着它不只是工具，还是个
 
 使用Midjourney需要订阅对应的套餐，但国内用户普遍面临一个问题：Midjourney不接受国内信用卡、支付宝等常用支付方式。申请国外信用卡是一种选择，但门槛较高，手续繁琐，不是每个人都能方便办理。在这种情况下，虚拟信用卡就成了国内用户的理想解决方案。
 
-根据我们的实测和众多用户的反馈，WildCard野卡虚拟信用卡是目前最值得推荐的选择。这款产品来自正规平台，安全性有保障，且在国内有备案，确保支付过程稳定可靠。它的优势还在于不仅适用于Midjourney，还能用于ChatGPT Plus、ChatGPT Pro、Claude Pro、Poe、OnlyFans、Netflix和YouTube等各类国际平台，真正做到一卡在手，全球畅通。
+根据我们的实测和众多用户的反馈，<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>是目前最值得推荐的选择。这款产品来自正规平台，安全性有保障，且在国内有备案，确保支付过程稳定可靠。它的优势还在于不仅适用于Midjourney，还能用于ChatGPT Plus、ChatGPT Pro、Claude Pro、Poe、OnlyFans、Netflix和YouTube等各类国际平台，真正做到一卡在手，全球畅通。
 
 ### 第一步：打开WildCard野卡官网，并依次点击“立即体验”、“立即开通”和“开通会员”按钮。
 
-* WildCard野卡官网：https://yeka.ai/i/ANYOFAI
+* WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![获取订阅Midjourney会员的WildCard野卡虚拟信用卡第一步：打开WildCard野卡官网，并点击“立即体验”](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/yeka-1.jpg)
 
