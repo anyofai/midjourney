@@ -8,6 +8,18 @@
 
 但说实话，国内用户使用Midjourney并不容易。从账号注册到订阅会员再到实际使用，每一步都可能遇到问题，比如无法访问Midjourney官网、不支持国内信用卡和支付宝等付款方式、英文界面难懂等。本教程将手把手教你如何注册Midjourney账号，如何使用WildCard野卡虚拟信用卡支付Midjourney订阅费用，如何使用Midjourney等。无论你是好奇尝鲜的新手，还是需要创意工具的专业人士，这份指南都能帮你轻松驾驭Midjourney的强大功能。
 
+<blockquote>
+  <h2 id="本文内容导航">本文内容导航</h2>
+  <h3 id="1-midjourney是什么">1. <a href="#midjourney是什么">Midjourney是什么?</a></h3>
+  <h3 id="2-midjourney订阅价格是多少">2. <a href="#midjourney订阅价格是多少">Midjourney订阅价格是多少？</a></h3>
+  <h3 id="3-midjourney注册教程">3. <a href="#midjourney注册教程">Midjourney注册教程</a></h3>
+  <h3 id="4-如何获取wildcard野卡虚拟信用卡">4. <a href="#如何获取wildcard野卡虚拟信用卡">如何获取Wildcard野卡信用卡（必备）</a></h3>
+  <h3 id="5-midjourney订阅教程">5. <a href="#midjourney订阅教程">Midjourney订阅教程</a></h3>
+  <h3 id="6-国内支付宝订阅midjourney会员时常见问题答疑">6. <a href="#国内支付宝订阅midjourney会员时常见问题答疑">国内订阅Midjourney时的常见问题</a></h3>
+  <h3 id="7-midjourney怎么用基础使用指南">7. <a href="#midjourney怎么用基础使用指南">Midjourney怎么用（基础使用指南）</a></h3>
+  <h3 id="8-midjourney怎么用进阶使用技巧">8. <a href="#midjourney怎么用进阶使用技巧">Midjourney怎么用（进阶使用技巧）</a></h3>
+</blockquote>
+
 ## Midjourney是什么？ 
 
 ![Midjourney是什么？ ](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney-1.png)
