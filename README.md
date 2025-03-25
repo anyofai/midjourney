@@ -1,6 +1,6 @@
 # 最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？
 
-<p align="center">最近更新于：2025年3月13日</p>
+<p align="center">最近更新于：2025年3月25日</p>
 
 ![最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney.png)
 
@@ -754,3 +754,13 @@ V6作为最新主要版本，在V5的基础上又有了质的飞跃。它对提�
 值得注意的是，为了保持创作的灵活性，Midjourney允许用户在不同版本之间自由切换。通过添加"--v 5"或"--v 6"等参数，你可以指定使用特定的模型版本，这让你能够根据不同项目的需求选择最适合的工具。
 
 随着技术的不断发展，Midjourney的模型版本会持续更新，每个新版本都会带来新的可能性和创作体验。了解这些差异有助于充分发挥这个强大工具的潜力。
+
+## Midjourney订阅相关的其他文章：
+
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：详细介绍如何获取国外虚拟信用卡，以及支付宝开通ChatGPT Plus会员的完整步骤！
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
+* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
+* <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
+* <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
