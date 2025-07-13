@@ -1,6 +1,18 @@
 # 最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？
 
-<p align="center">最近更新于：2025年7月10日</p>
+<p align="center">最近更新于：2025年7月12日</p>
+
+<blockquote>
+
+#### 🚨🚨关于“WildCard野卡跑路”的重要说明🚨🚨
+
+很遗憾地通知大家，2025年7月12日中午，Wildcard野卡的官方群突然发布公告称，由于一些不可抗力因素，Wildcard将立即停止全部业务。
+
+也就是说，目前国内唯一可以用来给Midjourney充值、而且我一直觉得非常好用的虚拟信用卡，现在也已经永久停止服务了。从今以后，国内普通用户想要订阅充值Midjourney会变得更加困难。
+
+我们也在积极寻找可以替代“WildCard野卡”的服务。在此之前，大家可以添加我们的**微信（ VX号：ANYOFAI ）**，我们会为你提供一些订阅充值Midjourney会员的平替方案。
+
+</blockquote>
 
 ![最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney.png)
 
