@@ -122,11 +122,9 @@ Midjourney选择在Discord上运行，这意味着它不只是工具，还是个
 
 使用Midjourney需要订阅对应的套餐，但国内用户普遍面临一个问题：Midjourney不接受国内信用卡、支付宝等常用支付方式。申请国外信用卡是一种选择，但门槛较高，手续繁琐，不是每个人都能方便办理。在这种情况下，虚拟信用卡就成了国内用户的理想解决方案。
 
-根据我们的实测和众多用户的反馈，<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>是目前最值得推荐的选择。这款产品来自正规平台，安全性有保障，且在国内有备案，确保支付过程稳定可靠。它的优势还在于不仅适用于Midjourney，还能用于ChatGPT Plus、ChatGPT Pro、Claude Pro、Poe、OnlyFans、Netflix和YouTube等各类国际平台，真正做到一卡在手，全球畅通。
+根据我们的实测和众多用户的反馈，WildCard野卡虚拟信用卡是目前最值得推荐的选择。这款产品来自正规平台，安全性有保障，且在国内有备案，确保支付过程稳定可靠。它的优势还在于不仅适用于Midjourney，还能用于ChatGPT Plus、ChatGPT Pro、Claude Pro、Poe、OnlyFans、Netflix和YouTube等各类国际平台，真正做到一卡在手，全球畅通。
 
 ### 第一步：打开WildCard野卡官网，并依次点击“立即体验”、“立即开通”和“开通会员”按钮。
-
-* WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![获取订阅Midjourney会员的WildCard野卡虚拟信用卡第一步：打开WildCard野卡官网，并点击“立即体验”](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/yeka-1.jpg)
 
@@ -772,12 +770,12 @@ V6作为最新主要版本，在V5的基础上又有了质的飞跃。它对提�
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：详细介绍如何获取国外虚拟信用卡，以及支付宝开通ChatGPT Plus会员的完整步骤！
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：详细介绍如何获取国外虚拟信用卡和国外手机号，以及订阅Claude Pro的完整操作流程！
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：包含国内订阅POE会员的详细操作步骤，以及如何购买POE合租账号的指南！
-* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 3的使用指南！
+* <a href="https://github.com/anyofai/x-twitter">Twitter X订阅</a>：提供订阅Twitter X的详细操作步骤，以及Grok 4的使用指南！
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：包括订阅OnlyFans的详细操作步骤，以及OnlyFans怎样玩和中国人怎么用OnlyFans！
 * <a href="https://github.com/anyofai/suno">Suno订阅</a>：提供订阅Suno AI会员的详细操作步骤，以及Suno AI音乐创作的使用指南！
 * <a href="https://github.com/anyofai/sora">Sora订阅</a>：包含订阅Sora的详细操作步骤和Sora的使用方法！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-3和Gemini-2 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-4.5、DeepSeek-R1、Grok-4和Gemini-2 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保！每月仅需20元！
