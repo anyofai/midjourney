@@ -10,9 +10,9 @@
 
 目前我们正在积极地寻找可以完美替代“WildCard野卡”的虚拟信用卡！但在此之前，大家可以通过以下这种方式来继续使用Midjourney会员。
 
-* 通过“银河录像局”这个专业的平台去合租Midjourney会员或者购买Midjourney原生独立帐号！
+* 通过“**<a href="https://nf.video/BTgSc">银河录像局</a>**”这个专业的平台去合租Midjourney会员或者购买Midjourney原生独立帐号！
 
-注意：关于“<a href="https://nf.video/BTgSc">银河录像局</a>”的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
+注意：关于“银河录像局”的信息，我们在“<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>”和“<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>”这两篇中有详细介绍！
 
 </blockquote>
 
