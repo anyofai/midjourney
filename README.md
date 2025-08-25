@@ -6,7 +6,7 @@
 
 Midjourney作为目前最强大的AI绘画工具，凭借出色的画质和强大的创意生成能力，已经成为无数设计师、自媒体作者和创作者的必备神器。然而，随着WildCard野卡等虚拟信用卡相继被迫停止运营，国内用户如果想要开通Midjourney会员，现在只剩下三种可行的方式：拼车合租Midjourney会员、购买Midjourney原生独立帐号以及Midjourney代充值。
 
-* **拼车合租Midjourney共享帐号**：无需科学上网，无需注册Midjourney帐号，价格非常便宜（27元/月），也没有封号的风险，是Midjourney轻度用户的首选。更多详情请查看：Midjourney合租。
+* **拼车合租Midjourney共享帐号**：无需科学上网，无需注册Midjourney帐号，价格非常便宜（27元/月），也没有封号的风险，是Midjourney轻度用户的首选。更多详情请查看：<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>。
 * **购买Midjourney原生独立帐号**：无需注册Midjourney帐号，也无需自己动手订阅会员，平台会直接提供一个已完成订阅充值的Midjourney帐号，用户拿到后即可登录使用，没有任何限制，非常适合Midjourney的重度用户。
 * **为现有Midjourney帐号代充值**：如果你是Midjourney的老用户，可以选择Midjourney代充值，在保留原始对话记录和设置的前提下，直接为你现有的Midjourney帐号充值，同样非常方便。
 
