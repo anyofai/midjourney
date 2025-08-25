@@ -1,6 +1,6 @@
-# 最新Midjourney订阅教程：如何注册Midjourney帐号？如何使用支付宝订阅Midjourney会员？Midjourney怎么用？
+# 2025年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？
 
-<p align="center">最近更新于：2025年8月4日</p>
+<p align="center">最近更新于：2025年8月26日</p>
 
 <blockquote>
 
