@@ -32,6 +32,8 @@ Midjourney作为目前最强大的AI绘画工具，凭借出色的画质和强�
 
 接下来按照系统提示完成支付，然后星际放映厅就会直接为你提供一个已经完成订阅充值的Midjourney原生独立账号，你拿到账号后即可直接使用，整个流程非常简单明了。而且在使用Midjourney会员账号的过程中，如果遇到任何问题，都可以随时联系星际放映厅的在线客服协助解决。
 
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</p>
+
 ## Midjourney充值订阅方法二：为现有Midjourney帐号代充值
 
 除了可以通过星际放映厅购买Midjourney原生独立帐号之外，你还可以选择为现有的Midjourney帐号代充值。这种方式非常适合之前一直在使用Midjourney会员，并且希望继续使用自己原有帐号的用户。因为Midjourney代充值可以完整保留帐号中的原始对话记录和设置。
@@ -45,6 +47,8 @@ Midjourney作为目前最强大的AI绘画工具，凭借出色的画质和强�
 ### 第三步：输入优惠码“ANYOFAI”后点击“支付订单”。
 
 OK，当你按照系统提示完成付款之后，需要主动联系星际放映厅的24小时在线客服，并提交你的Midjourney账号和密码。随后，星际放映厅的客服会为你完成Midjourney订阅充值。如果你在充值过程中遇到任何问题，也可以随时联系星际放映厅的在线客服咨询。
+
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</p>
 
 ## Midjourney是什么？
 
