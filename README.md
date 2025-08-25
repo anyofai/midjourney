@@ -68,6 +68,8 @@ OK，当你按照系统提示完成付款之后，需要主动联系星际放映
 
 ## Midjourney是什么？
 
+![Midjourney是什么？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney-1.png)
+
 Midjourney是一款基于人工智能的图像生成工具，它通过输入文字提示（Prompt）即可生成高质量的图片作品。与传统的设计软件不同，Midjourney并不需要用户具备专业的绘画基础，只需用自然语言描述想要的画面，AI就能在几秒钟内生成符合需求的图像。与其他图像生成工具相比，Midjourney的优势主要体现在以下几个方面：
 
 * 艺术感与细节表现力突出：相较于DALL·E和Stable Diffusion等AI绘画工具，Midjourney生成的画面更具美学风格，细节丰富且极富艺术感。
@@ -81,6 +83,8 @@ Midjourney是一款基于人工智能的图像生成工具，它通过输入文�
 目前，Midjourney已经迭代到V6版本，在光影表现、真实感、人像细节和创意自由度方面都有了显著提升，能够满足从业余爱好者到专业设计师的多样化需求。它不仅是一款工具，更正在逐渐成为新一代数字艺术创作的标准平台。
 
 ## Midjourney订阅价格是多少？
+
+![Midjourney订阅价格是多少？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney-2.png)
 
 Midjourney采用订阅制，根据用户的不同需求提供Basic、Standard、Pro和Mega四个套餐。每个套餐在GPU时间（用于生成图像的计算资源）、生成速度和功能权限方面各有区别。随着价格的提升，用户能够获得更长的生成时长、更快的处理速度以及更多的高级功能。
 
