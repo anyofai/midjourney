@@ -1,6 +1,6 @@
 # 2026年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立账号？
 
-<p align="center">最近更新于：2026年1月19日</p>
+<p align="center">最近更新于：2026年1月24日</p>
 
 ![2026年最新Midjourney充值订阅教程：如何开通Midjourney会员？如何购买Midjourney原生独立账号？](https://raw.githubusercontent.com/anyofai/midjourney/refs/heads/main/image/Midjourney.png)
 
